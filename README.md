@@ -367,5 +367,5 @@ root@b0cc6a11f62d:/# pg_dump -U postgres -d test_database > /var/lib/postgresql/
 
 Как бы вы доработали бэкап-файл, чтобы добавить уникальность значения столбца `title` для таблиц `test_database`?
 
-*Для этого можно добавить атрибут `UNIQUE`*
+#### *Для этого можно добавить атрибут `UNIQUE`*
 ---
